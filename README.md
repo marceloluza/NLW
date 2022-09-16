@@ -4,14 +4,12 @@
 
 > Trilha Explorer
 
-#
-
-<h2>📖 Descrição</h2>
+## 📖 Descrição
 Projeto construído do evento Next Level Week da Rocketseat🚀
 
 </br>
 
-<h2>⚙️ Tecnologias</h2>
+## ⚙️ Tecnologias
 
 - HTML
 - CSS
