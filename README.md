@@ -6,12 +6,12 @@
 
 #
 
-## 📖 Descrição
+<h2>📖 Descrição</h2>
 Projeto construído do evento Next Level Week da Rocketseat🚀
 
 </br>
 
-## ⚙️ Tecnologias 
+<h2>⚙️ Tecnologias</h2>
 
 - HTML
 - CSS
